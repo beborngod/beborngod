@@ -8,13 +8,13 @@
 - Knowledge TCP/IP
 
 ### ![Skeleton project](https://github.com/beborngod/Skeleton)
-##### Release version 1.0
+#### Release version 1.0
 - Five themes and one for Kvantum(transparent theme)
 - Two variantes of cxx syntax
 - Font changing
 - PDF writer
 
-##### Dependence
+#### Dependence
 
 For using this text editor you must have Qt 5.15.2 on your PC.
 I working about rpm and deb packages, but now we have only binary
