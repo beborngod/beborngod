@@ -8,7 +8,7 @@
 - Knowledge TCP/IP
 
 ### ![Skeleton project](https://github.com/beborngod/Skeleton)
-#### Release version 1.0.1
+#### Release version 1.1
 - Five themes and one for Kvantum(transparent theme)
 - Multi-tabs
 - Font changing
