@@ -10,7 +10,7 @@
 ### ![Skeleton project](https://github.com/beborngod/Skeleton)
 #### Release version 1.0.1
 - Five themes and one for Kvantum(transparent theme)
-- Two variantes of cxx syntax
+- Multi-tabs
 - Font changing
 - PDF writer
 
@@ -18,10 +18,7 @@
 - Fixed litle bugs with Highlighter
 
 #### Platforms
-- Fedora Linux
-- RHEL
-- Debian
-- Ubuntu
+- Linux
 
 Its avaliable too in other Linux platforms but it wasn't tested.
 
