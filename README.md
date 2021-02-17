@@ -8,14 +8,14 @@
 - Knowledge TCP/IP
 
 ### ![Skeleton project](https://github.com/beborngod/Skeleton)
-#### Features
+#### Skeleton Features ->
 - Multi-Tabs
 - Shortcuts
 - Themes changing
 - Font changing
 - PDF writer
 
-### Linux platforms
+#### Skeleton for GNU/Linux platforms ->
 
 - Debian based
 - RedHat based
