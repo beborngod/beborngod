@@ -8,19 +8,17 @@
 - Knowledge TCP/IP
 
 ### ![Skeleton project](https://github.com/beborngod/Skeleton)
-#### Release version 1.1
-- Five themes and one for Kvantum(transparent theme)
-- Multi-tabs
+#### Features
+- Multi-Tabs
+- Shortcuts
+- Themes changing
 - Font changing
 - PDF writer
 
-#### Whats new?
-- Fixed litle bugs with Highlighter
+### Linux platforms
 
-#### Platforms
-- Linux
-
-Its avaliable too in other Linux platforms but it wasn't tested.
+- Debian based
+- RedHat based
 
 ### Spotify Playing 🎧
 
