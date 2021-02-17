@@ -7,7 +7,7 @@
 - Fedora Linux
 - Knowledge TCP/IP
 
-### ![Skeleton project](https://github.com/beborngod/Skeleton)
+### ![Skeleton project:](https://github.com/beborngod/Skeleton)
 #### Skeleton Features ->
 - Multi-Tabs
 - Shortcuts
