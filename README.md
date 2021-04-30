@@ -2,24 +2,17 @@
 
 ### Something about me:
 
-- Autodidact
-- Love C++/Qt
-- Fedora Linux
-- Knowledge TCP/IP
+- Love C/C++ ASM
+- Linux / Windows
+- System Programming
+- CuberSecurity
 
-### ![Skeleton project:](https://github.com/beborngod/Skeleton)
-#### Skeleton Features ->
-- Multi-Tabs
-- Shortcuts
-- Themes changing
-- Font changing
-- PDF writer
-
-#### Skeleton for GNU/Linux platforms ->
-
-- Debian based
-- RedHat based
-
+### ![BWEL](https://github.com/Partisaner/BWEL)
+  Better Experiance WinAPI Library for eather life.
+  
+### ![Closed project: Skeleton](https://github.com/beborngod/Skeleton)
+  The Text Editor on Qt 5.15.2
+  
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/xglhjmhcc6nxmbh0gjcihencz)### Connect with me:
