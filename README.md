@@ -12,10 +12,7 @@
   
 ### ![Closed project: Skeleton](https://github.com/beborngod/Skeleton)
   The Text Editor on Qt 5.15.2
-  
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="beborngod" width="350" />](https://open.spotify.com/user/xglhjmhcc6nxmbh0gjcihencz)### Connect with me:
+ 
 
 ### Connect with me:
 
