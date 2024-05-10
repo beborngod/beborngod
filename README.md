@@ -2,7 +2,7 @@
 
 ### Something about me:
 
-Ruat, С++ 20, STL, Boost, CURL, WinAPI UM, WinAPI KM, Ida hex rays, WinDBG, ASM, python, networking, linux, docker.
+Rust, С++ 20, STL, Boost, CURL, WinAPI UM, WinAPI KM, Ida hex rays, WinDBG, ASM, python, networking, linux, docker.
 I have 5 years experience in C++, mostly it is system code programming on OS Windows, Exploit protection, antivirus clients, work directly with the system.
 Besides that, I love new C++ standards, I try to use as many new features as possible in my projects.
 Also in my free time I like to play with disassembly and draw pictures;)
